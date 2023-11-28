@@ -14,11 +14,8 @@ To use the MBP interpreter, follow these steps:
 
 Run the interpreter with your MBP code file:
 
-    python mbp-inter.py youfile.mbp
-
-bash
-
-python mbp_interpreter.py your_input_file.mbp
+   bash
+   python mbp_interpreter.py your_input_file.mbp
 
 Replace your_input_file.mbp with the actual file containing the MBP code you want to interpret.
 
